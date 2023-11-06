@@ -1,0 +1,12 @@
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\bin\Debug\net6.0\api_models.deps.json
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\bin\Debug\net6.0\api_models.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\bin\Debug\net6.0\api_models.pdb
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\api_models.csproj.AssemblyReference.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\api_models.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\api_models.AssemblyInfoInputs.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\api_models.AssemblyInfo.cs
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\api_models.csproj.CoreCompileInputs.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\api_models.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\refint\api_models.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\api_models.pdb
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\ClassLibrary1\obj\Debug\net6.0\ref\api_models.dll

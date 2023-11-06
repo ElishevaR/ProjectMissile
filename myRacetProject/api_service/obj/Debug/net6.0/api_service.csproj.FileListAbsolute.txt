@@ -1,0 +1,5 @@
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\api_service\obj\Debug\net6.0\api_service.csproj.AssemblyReference.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\api_service\obj\Debug\net6.0\api_service.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\api_service\obj\Debug\net6.0\api_service.AssemblyInfoInputs.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\api_service\obj\Debug\net6.0\api_service.AssemblyInfo.cs
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\api_service\obj\Debug\net6.0\api_service.csproj.CoreCompileInputs.cache

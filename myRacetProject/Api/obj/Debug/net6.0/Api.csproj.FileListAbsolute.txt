@@ -1,0 +1,135 @@
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\appsettings.Development.json
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\appsettings.json
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.exe
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.deps.json
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.dll
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.pdb
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\staticwebassets.build.json
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\staticwebassets.development.json
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.dll
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\refint\Api.dll
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.pdb
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+Y:\teachers for hitmachut\shulamit godelvski\C#\ls4\ProjectTiacher\Api\obj\Debug\net6.0\ref\Api.dll
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\appsettings.Development.json
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\appsettings.json
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.exe
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.deps.json
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.dll
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Api.pdb
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\dot.net\ls4\ProjectTiacher\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.dll
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\refint\Api.dll
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.pdb
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+F:\dot.net\ls4\ProjectTiacher\Api\obj\Debug\net6.0\ref\Api.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\appsettings.Development.json
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\appsettings.json
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Api.exe
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Api.deps.json
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Api.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Api.pdb
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\refint\Api.dll
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.pdb
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+E:\dot.net\חומרים ופרויקטים מהמורה\ls4\myRacetProject\Api\obj\Debug\net6.0\ref\Api.dll
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.dll
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\refint\Api.dll
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.pdb
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\appsettings.Development.json
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\appsettings.json
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Api.exe
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Api.deps.json
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Api.dll
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Api.pdb
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dot.net\ש.ב\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+E:\dot.net\ש.ב\myRacetProject\Api\obj\Debug\net6.0\ref\Api.dll
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\appsettings.Development.json
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\appsettings.json
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Api.exe
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Api.deps.json
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Api.runtimeconfig.json
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Api.dll
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Api.pdb
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.AssemblyReference.cache
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.AssemblyInfoInputs.cache
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.AssemblyInfo.cs
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.CoreCompileInputs.cache
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\scopedcss\bundle\Api.styles.css
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.csproj.CopyComplete
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.dll
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\refint\Api.dll
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.pdb
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\myCoursesFullStack\second year\dot.net\repository\myRacetProject\Api\obj\Debug\net6.0\ref\Api.dll
